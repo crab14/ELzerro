@@ -1,2 +1,2 @@
 # ELzerro
-alzero coursse
+alzero coursse for git and github 
